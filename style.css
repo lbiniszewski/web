@@ -1,28 +1,9 @@
-h1 {
-    font-size: 30px;
-    color:rgba(255,255,0,0.5);
-    text-transform: uppercase;
-}
-
-body
-{
-    background:black;
-    font-family: 'Caveat', cursive;
-}
-
-p{
-    /*kolor teksu */
-    color: #fff005;
-    font-size: 40px;
-     /*krój czconki  */
-     /* font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; */
-     font-weight: 400;
-     /* trnsformacje */
-     
+body{
+    background: grey;
 }
 
 div{
-    width:100%;
-    margin: 10px;
     background: lightblue;
+    width: 500px;
+    height: 300px;
 }
