@@ -1,0 +1,25 @@
+
+main{
+    width: 1000px;
+    height:200px;
+    background: lightsalmon;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;   
+    flex-wrap: wrap;
+}
+
+
+
+main div {
+    width:150px;
+    height:auto;
+    background: lightseagreen;
+    order:10;
+}
+
+#el3{
+    background: red;
+    align-self: flex-end;
+    order: 1;
+}
